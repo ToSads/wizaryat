@@ -1,0 +1,35 @@
+[
+    {
+        "_id": "1",
+        "working": true,
+        "name": "متميزين",
+        "for": [
+            "Biology",
+            "Physics"
+        ]
+    },{
+        "_id": "2",
+        "working": true,
+        "name": "علمي عربي",
+        "for": [
+            "Biology",
+            "Physics"
+        ]
+    },{
+        "_id": "3",
+        "working": true,
+        "name": "ادبي",
+        "for": [
+            "Islamic", 
+            "Arabic"
+        ]
+    },{
+        "_id": "4",
+        "working": true,
+        "name": "تطبيقي عربي",
+        "for": [
+            "Biology",
+            "Physics"
+        ]
+    }
+]
