@@ -323,7 +323,7 @@ body {
 }
 
 .filterInput option {
-    background-color: #2a1c19; 
+    background-color: #1F2937; 
     color: white; 
     font-weight: bold; 
     font-size: 14px; 
@@ -501,7 +501,7 @@ footer a {
 
 
     .mainCatagoriesDiv {
-        background: #2a1c19;
+        background: #1F2937;
         background-position: center;
         background-size:cover;
         background-attachment: fixed;
