@@ -98,10 +98,7 @@ function putHTML() {
         <p>اللغة الانجليزية</p>
         </div>
 
-        <div onclick="catagoryClicked('French')" class="frenchDiv catagoryDiv">
-        <iconify-icon icon="mdi:france" width="65" height="65"   style="color: #E879F9"></iconify-icon>
-        <p>اللغة الفرنسية</p>
-        </div>
+        
 
         <div onclick="catagoryClicked('Islamic')" class="islamicDiv catagoryDiv">
         <iconify-icon icon="noto-v1:mosque" width="65" height="65"   style="color: #22C55E "></iconify-icon>
@@ -120,6 +117,10 @@ function putHTML() {
 
     `;
 }
+/* <div onclick="catagoryClicked('French')" class="frenchDiv catagoryDiv">
+        <iconify-icon icon="mdi:france" width="65" height="65"   style="color: #E879F9"></iconify-icon>
+        <p>اللغة الفرنسية</p>
+        </div> */
 fetchAndApplyData();
 
 function catagoryClicked(subject) {
