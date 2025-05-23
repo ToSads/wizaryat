@@ -86,7 +86,8 @@ body {
 
 /*  */
 .ad-div {
-    background-color: rgba(0, 0, 0, 0.89);
+        background-color: rgba(0, 0, 0, 0.575);
+
     position: fixed;
     top: 0;
     right: 0;
